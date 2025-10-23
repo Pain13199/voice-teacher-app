@@ -14,7 +14,7 @@ import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import org.jetbrains.compose.resources.ExperimentalResourceApi
 import org.jetbrains.compose.resources.painterResource
-import com.myapplication.common.generated.resources.Res
+import MyApplication.shared.generated.resources.Res
 
 @OptIn(ExperimentalResourceApi::class)
 @Composable
